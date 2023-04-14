@@ -13,3 +13,4 @@ class DiceController < ApplicationController
     render({:template => "dice_templates/infinity.html.erb"})
   end
  
+end
